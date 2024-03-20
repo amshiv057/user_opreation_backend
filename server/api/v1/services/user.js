@@ -1,4 +1,4 @@
-import userModel from "../../../models/user/user";
+import userModel from "../../../models/user/User";
 
 const userServices = {
     createUser: async (insertObj) => {
